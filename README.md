@@ -1,2 +1,3 @@
-# linear_regression_lab
-Linear Regression lab
+# Linear Regression Workbook
+
+> **Dataset description:** Sacramento Real Estate Transactions
